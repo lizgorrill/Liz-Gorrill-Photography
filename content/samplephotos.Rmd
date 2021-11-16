@@ -1,0 +1,18 @@
+---
+title: "Sample Photos"
+author: "Liz Gorrill"
+output: html_document
+---
+![Snowy OWl](IMG_8877.jpg)
+
+![Bog Flower](IMG_0741.jpg)
+
+![Cadillac Sunrise](IMG_1726.jpg)
+
+![Mayflower Sunset](IMG_1995.jpg)
+
+![Sagamore Sunrise](IMG_2142.jpg)
+
+![Watercolor Sunset](IMG_5179.jpg)
+
+![Path to the Atlantic](IMG_8271.jpg)
