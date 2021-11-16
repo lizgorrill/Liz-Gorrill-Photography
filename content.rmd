@@ -1,0 +1,13 @@
+---
+title: "About Me"
+output: 
+  html_document
+
+
+---
+
+
+Growing up on Cape Cod, I was surrounded by so much natural inspiration for 
+creativity. With my grandfather working as a professional photographer, I was exposed early on to the intricacies of photo development, helping him work in the dark room in his basement any time I visited. At 12 I inherited my first "real" camera that had functions beyond point and shoot and began exploring. I quickly turned to landscape photography, carrying my camera with me to every sunrise, sunset, mountain adventure and boat outing. Beginning in 2012 I started to shoot portraits for athletes, graduating seniors, performers and professionals and in 2014 I had my first engagement shoot followed by assisting in shooting a wedding. I have continued to shoot many events, while primarily focusing on landscapes to cature the purity of nature.
+
+* [Sample Landscapes](content/samplephotos.html)  
